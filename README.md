@@ -1,4 +1,4 @@
-test
+www.derekmolloy.ie
 ====
 
-Test Repository for Git Example "Git in Practice"
+Test Repository for Exploring Git
